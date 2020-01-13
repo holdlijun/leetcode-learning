@@ -1,2 +1,2 @@
-# holdlijun-leetcode-learning
+# leetcode-learning
 leetcode learning
